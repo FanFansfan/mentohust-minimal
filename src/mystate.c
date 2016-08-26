@@ -7,6 +7,7 @@
 * 作	者：HustMoon@BYHH
 * 邮	箱：www.ehust@gmail.com
 */
+#define _GNU_SOURCE
 #include "mystate.h"
 #include "myfunc.h"
 #include "dlfunc.h"
